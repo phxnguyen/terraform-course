@@ -1,6 +1,25 @@
+# Secrets
 .env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.ppk
+
+# Terraform
 .terraform/
 **.tfstate*
-.prettierrc
+crash.log
+crash.*.log
+*.tfplan
+plan.out
+tfplan
 
+# Editor / OS
 .DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+.prettierrc
