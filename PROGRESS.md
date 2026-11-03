@@ -31,7 +31,7 @@
 
 | Done | # | Exercise |
 |:---:|:---:|---|
-| [ ] | 09 | Working with Providers |
+| [x] | 09 | Working with Providers |
 | [ ] | 10 | Using Data Sources to Fetch AMI Information |
 | [ ] | 11 | Using Data Sources to Fetch AWS Caller Identity and Region |
 | [ ] | 12 | Using Data Sources to Fetch VPC Information |
