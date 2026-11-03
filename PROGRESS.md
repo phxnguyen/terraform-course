@@ -17,7 +17,7 @@
 |:---:|:---:|---|
 | [x] | 03 | Understanding the Different Terraform Stages |
 | [ ] | 04 | Overview of the Hashicorp Configuration Language (HCL) |
-| [ ] | 05 | Our First Terraform Project |
+| [x] | 05 | Our First Terraform Project |
 | [ ] | 06 | Working with the Terraform CLI |
 
 ### Phần 3 — Backends (07–08)
