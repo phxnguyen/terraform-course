@@ -24,7 +24,7 @@
 
 | Done | # | Exercise |
 |:---:|:---:|---|
-| [ ] | 07 | Using a Remote S3 Backend |
+| [x] | 07 | Using a Remote S3 Backend |
 | [ ] | 08 | Partial Backend Configuration |
 
 ### Phần 4 — Providers & Data Sources (09–13)
